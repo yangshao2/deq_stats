@@ -1,4 +1,4 @@
-  4ABDA004.14.csv: 29 rows
+  4ABDA004.14.csv: 29 rows (removed)
   4ABSA000.62.csv: 4433 rows
   4ABWR002.50.csv: 5007 rows
   4ABWR010.55.csv: 4179 rows
@@ -8,7 +8,7 @@
   4ACOA000.60.csv: 4429 rows
   4AGIL002.39.csv: 2388 rows
   4AGIL008.30.csv: 110 rows
-  4ALVL003.26.csv: 4 rows
+  4ALVL003.26.csv: 4 rows (removed)
   4AROA158.22.csv: 5679 rows
   4AROA163.76.csv: 5233 rows
   4AROA167.34.csv: 5237 rows
@@ -20,3 +20,7 @@
   4AROA195.60.csv: 83 rows
   4AROA199.20.csv: 123 rows
   4AWTH000.40.csv: 4569 rows
+
+  FDT_SPECIFIC_CONDUCTANCE (don't include, possiblely method change)
+
+  
